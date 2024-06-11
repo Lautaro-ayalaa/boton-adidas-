@@ -1,0 +1,17 @@
+.boton {
+    background-color: black
+    color:white;
+    font-family: Arial, helvetica, sans-seri
+    padding: 10px 15px;
+    font-weight: bold;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-araound;
+    width: 200px;
+    aling-items: center;
+}
+
+.boton:hover{
+    color:gray;
+}
+
